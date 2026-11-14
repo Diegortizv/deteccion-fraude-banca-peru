@@ -1,0 +1,17 @@
+# Entorno y cachés
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Datos: se descargan de Kaggle (licencia no declarada); ver datos/LEEME.txt
+datos/*.xlsx
+
+# Archivos intermedios de LaTeX
+informe/*.aux
+informe/*.log
+informe/*.bbl
+informe/*.blg
+informe/*.out
+informe/*.xdv
+

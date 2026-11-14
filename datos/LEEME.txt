@@ -1,0 +1,2 @@
+Coloca aquí el archivo DATOS_OFICIALES.xlsx (exactamente con ese nombre).
+verificar_entorno.py comprueba que sea el mismo archivo que usa todo el equipo.
